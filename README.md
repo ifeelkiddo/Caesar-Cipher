@@ -1,7 +1,5 @@
 # PRODIGY_CS_01
 
-This program is used for encryption and decryption of messages using shift values.
-
 **Prodigy Infotech Cybersecurity internship**
 
 **Task#1 - Implement Caesar Cipher**
